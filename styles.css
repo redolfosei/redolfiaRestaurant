@@ -1,0 +1,29 @@
+header {
+    background-color:blue;
+    height: 118px;
+}
+
+nav {
+    background-color:aqua;
+    height:40px;
+}
+
+main {
+    background-color:brown;
+    height: 400px;
+}
+
+footer {
+    background-color:beige;
+    height: 30px;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto; 
+    width: 1024px;
+}
+
+body {
+    background-color: blueviolet;
+}
